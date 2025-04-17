@@ -1,0 +1,6 @@
+projectKey=devops-demo
+serverUrl=http://localhost:9000
+serverVersion=25.4.0.105899
+dashboardUrl=http://localhost:9000/dashboard?id=devops-demo
+ceTaskId=1619bed9-f263-4e5d-8f37-4741dfe7219e
+ceTaskUrl=http://localhost:9000/api/ce/task?id=1619bed9-f263-4e5d-8f37-4741dfe7219e
